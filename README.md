@@ -3,6 +3,8 @@ Initial install
 pip install -U tensorflow keras opencv-python
 OR
 requirements.txt
+
+> pip install -r requirements.txt
 ----
 
 # ImagePredictor
