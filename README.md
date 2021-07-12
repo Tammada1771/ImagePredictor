@@ -1,6 +1,8 @@
 Initial install 
 ----
-pip install -U tensorflow keras opencv-python
+These packages
+> pip install -U tensorflow keras opencv-python
+
 OR
 requirements.txt
 
