@@ -30,3 +30,8 @@ etc...
 ----
 Any 'JPG' image can be added into the images folder and ran
 ----
+
+
+----
+InceptionV3, MobileNet, or ResNet can be switched around as all files are there.
+I have found that InceptionV3 is most accurate
